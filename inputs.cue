@@ -67,7 +67,7 @@ defaults: {
            endpoint_host: "iam.greymatter.io"
            endpoint_port: 443
            endpoint:      "https://\(endpoint_host)"
-           domain:        ""
+           domain:        "http://ad94522d6c54147459938792f6b58971-1296074563.us-east-1.elb.amazonaws.com:10808"
            client_id:     "example1"
            client_secret: "yJsMB9g4lZBx2Lfs5I7heP4jbRlNYLYE"
            realm:         "example-realm"
